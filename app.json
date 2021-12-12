@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Ricardo_TempoApp",
+    "slug": "Tempo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1ED6FF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1ED6FF"
+      },
+      "package": "com.ricardaor10jr.Tempo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
