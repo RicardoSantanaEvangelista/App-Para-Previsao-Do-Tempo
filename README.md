@@ -1,0 +1,2 @@
+# App-Para-Previsao-Do-Tempo
+ Aplicativo desenvolvido para ter acesso as previsões do tempo, tanto na data atual quanto os próximos dez dias, tendo acesso à umidade do ar, a hora em que o dia nasceu e vai se por e a velocidade do vento. Podendo pesquisar qualquer cidade do mundo e ter as mesmas informações sobre a cidade pesquisada. Sendo desenvolvido com: JavaScript, React-Native, Expo e o Axios para consumir a API HgBrasil.com.
